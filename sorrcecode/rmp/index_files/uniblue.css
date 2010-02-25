@@ -645,10 +645,10 @@ a.lmbl:hover
 #horiz-h1-main3
 {
 	height: 3px;
-	width: 210px;
+	width: 175px;
 	background-image: url(../assets/graphics/horiz-h1-store.gif);
 	background-repeat: repeat-x;
-	margin: 10px 0 13px 0;
+	margin: 5px 0 1px 0;
 }
 #horiz-h1-main1
 {
@@ -1218,7 +1218,7 @@ a.rightpanel:hover
 a.fpblue
 {
 	font-family: Tahoma, Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 13px;
 	margin: 0 0 10px 0; /*margin:0px;padding: 0;*/
 	color: #3471b0;
 	text-align: left;
@@ -1228,16 +1228,7 @@ a.fpblue:link
 	text-decoration: none;
 	color: #3471b0;
 }
-a.fpblue:visited
-{
-	text-decoration: none;
-	color: #3471b0;
-}
-a.fpblue:active
-{
-	text-decoration: none;
-	color: #3471b0;
-}
+
 a.fpblue:hover
 {
 	text-decoration: underline;

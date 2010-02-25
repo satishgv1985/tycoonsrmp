@@ -2,7 +2,7 @@
     CodeFile="contactUs.aspx.cs" Inherits="contactUs" Title="Contact Us" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="contentplaceholderRMP" runat="Server">
-    <table align="center" border="0" cellpadding="4" cellspacing="0" width="770" bgcolor="#ffffff">
+    <table align="center" border="0" cellpadding="4" cellspacing="0" class="tableClass" bgcolor="#ffffff">
         <tr>
             <td>
                 <img src="needs/banner-contact.jpg" /></td>
