@@ -3,8 +3,8 @@ position: relative; /*leave as is*/
 overflow: hidden; /*leave as is*/
 border: 10px solid white;
 border-bottom-width: 6px;
-width: 161px; /*width of featured content slider*/
-height: 160px;
+width: 458px; /*width of featured content slider*/
+height: 279px;
 border:1px solid black
 }
 
@@ -15,9 +15,9 @@ visibility: hidden; /*leave as is*/
 position: absolute; /*leave as is*/
 left: 0;  /*leave as is*/
 top: 0;  /*leave as is*/
-padding: 5px;
+padding: 0px;
 background: white;
-width: 160px; /*width of content DIVs within slider. Total width should equal slider's inner width (390+5+5=400) */
+width: 390px; /*width of content DIVs within slider. Total width should equal slider's inner width (390+5+5=400) */
 height: 100%;
 filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);
 -moz-opacity: 1;
@@ -25,7 +25,7 @@ opacity: 1;
 }
 
 .pagination{
-width: 160px; /*Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
+width: 400px; /*Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
 text-align: right;
 background-color: white;
 padding: 5px 10px;
